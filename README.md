@@ -1,2 +1,3 @@
-# IoT-Starter
-IoT multi-target starter project with Arduino and PlaformIO
+# IoT multi-target starter project with Arduino and PlaformIO
+
+[PlatformIO IDE](https://platformio.org/platformio-ide)
